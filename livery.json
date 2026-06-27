@@ -1070,7 +1070,7 @@
             "https://raw.githubusercontent.com/CCA131488/China-Northern/refs/heads/main/liveries/Boeing_b777-9X/CP.png",
             "https://raw.githubusercontent.com/CCA131488/China-Northern/refs/heads/main/liveries/Boeing_b777-9X/CP.png"
           ],
-          "credits": "KN5290＆CP8888"
+          "credits": "KN5290 & CP8888"
         },
         {
            "name": "China Northern (First 777-9X sticker)",
@@ -1079,7 +1079,7 @@
             "https://raw.githubusercontent.com/CCA131488/China-Northern/refs/heads/main/liveries/Boeing_b777-9X/CP1th.png",
             "https://raw.githubusercontent.com/CCA131488/China-Northern/refs/heads/main/liveries/Boeing_b777-9X/CP1th.png"
           ],
-          "credits": "KN5290＆CP8888"
+          "credits": "KN5290 & CP8888"
         }
       ],
       "labels": [
@@ -1111,7 +1111,7 @@
             "https://raw.githubusercontent.com/CCA131488/China-Northern/refs/heads/main/liveries/Boeing_b747-400/CP_combi.png",
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
           ],
-          "credits": "KN5290＆CP8888"
+          "credits": "KN5290 & CP8888"
         }
       ],
       "labels": [
@@ -1154,6 +1154,21 @@
            "name": "China Northern (Wenzhou livery)",
           "texture": [
             "https://raw.githubusercontent.com/CCA131488/China-Northern/refs/heads/main/liveries/Airbus_A319neo/CPwenzhou.png"
+          ],
+          "credits": "CP8888"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "5998": {
+      "name": "Airbus A340-600",
+      "liveries": [
+        {
+           "name": "China Northern (Northern Aurora livery)",
+          "texture": [
+            "https://raw.githubusercontent.com/CCA131488/China-Northern/refs/heads/main/liveries/Airbus_a340-600/B-3406.png"
           ],
           "credits": "CP8888"
         }
