@@ -1112,6 +1112,14 @@
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
           ],
           "credits": "KN5290 & CP8888"
+        },
+        {
+           "name": "China Northern (Aurora Deep Space livery)",
+          "texture": [
+            "https://raw.githubusercontent.com/CCA131488/China-Northern/refs/heads/main/liveries/Boeing_b747-400/B2488.jpg",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
+          ],
+          "credits": "CP8888"
         }
       ],
       "labels": [
