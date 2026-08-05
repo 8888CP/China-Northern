@@ -998,7 +998,16 @@
     },
     "5193": {
       "name": "Boeing b747-8I",
-      "liveries": [],
+      "liveries": [
+        {
+           "name": "China Northern",
+          "texture": [
+            "https://raw.githubusercontent.com/CCA131488/China-Northern/refs/heads/main/liveries/Boeing_b747-8/CP.jpg",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
+          ],
+          "credits": "CP8888"
+        }
+      ],
       "labels": [
         "Texture",
         "Wing texture"
