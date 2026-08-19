@@ -1213,6 +1213,14 @@
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
           ],
           "credits": "CP8888"
+        },
+        {
+           "name": "China Northern (Hangzhou livery)",
+          "texture": [
+            "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/Boeing_b747-400/CP_hangzhou.jpg",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
+          ],
+          "credits": "CP8888"
         }
       ],
       "labels": [
