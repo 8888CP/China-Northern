@@ -240,7 +240,16 @@
     },
     "777_300": {
       "name": "Boeing b777-300ER",
-      "liveries": [],
+      "liveries": [
+        {
+          "name": "China Northern",
+          "texture": [
+            "/models/aircraft/premium/777_300/specular_0.jpg",
+            "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/777-300/CP.jpg"
+          ],
+          "credits": "CP8888"
+        }
+      ],
       "labels": [
         "Specular shader",
         "Texture"
