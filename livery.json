@@ -752,7 +752,14 @@
           "texture": [
             "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/Boeing_737-800/B-6657.png"
           ],
-          "credits": "KN5290＆CP8888"
+          "credits": "KN5290 & CP8888"
+        },
+        {
+           "name": "China Northern (Ice City Summer Capital livery)",
+          "texture": [
+            "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/Boeing_737-800/CP_B8887.jpg"
+          ],
+          "credits": "CP8888"
         }
       ],
       "labels": [
