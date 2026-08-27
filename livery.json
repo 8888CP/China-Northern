@@ -1319,6 +1319,23 @@
       "labels": [
         "Texture"
       ]
+    },
+    "crj900_267286_5960": {
+      "name": "Bombardier CRJ900",
+      "liveries": [
+        {
+           "name": "China Northern",
+          "texture": [
+            "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/CRJ900/CP.jpg",
+            "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/CRJ900/CP.jpg",
+            "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/CRJ900/CP.jpg"
+          ],
+          "credits": "CP8888"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ]
     }
   }
 }
