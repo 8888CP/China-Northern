@@ -1318,7 +1318,9 @@
         }
       ],
       "labels": [
-        "Texture"
+        "Texture",
+        "Normal map",
+        "Metallic shade"
       ]
     },
     "crj900_267286_5960": {
