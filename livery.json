@@ -607,7 +607,15 @@
     },
     "airbus a320-214 (Easyjet)_427352_2871": {
       "name": "Airbus a320neo",
-      "liveries": [],
+      "liveries": [
+           {
+                "name": "China Northern",
+                "texture": [
+                      "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a32n/CP.jpg"
+                 ],
+                 "credits": "CP8888"
+             }
+      ],
       "labels": [
         "Texture"
       ]
