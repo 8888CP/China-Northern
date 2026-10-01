@@ -601,13 +601,13 @@
     "M200V_267286_2864": {
       "name": "Leonardo - AugustaWestland AW609",
       "liveries": [
-           {
-                "name": "China Northern",
-                "texture": [
-                      "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/AW609/CP.png"
-                 ],
-                 "credits": "CP8888"
-             }
+        {
+          "name": "China Northern",
+          "texture": [
+            "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/AW609/CP.png"
+          ],
+          "credits": "CP8888"
+        }
       ],
       "labels": [
         "Texture"
@@ -616,13 +616,13 @@
     "airbus a320-214 (Easyjet)_427352_2871": {
       "name": "Airbus a320neo",
       "liveries": [
-           {
-                "name": "China Northern",
-                "texture": [
-                      "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a32n/CP.jpg"
-                 ],
-                 "credits": "CP8888"
-             }
+        {
+          "name": "China Northern",
+          "texture": [
+            "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a32n/CP.jpg"
+          ],
+          "credits": "CP8888"
+        }
       ],
       "labels": [
         "Texture"
@@ -757,28 +757,28 @@
       "name": "Boeing b737-800",
       "liveries": [
         {
-           "name": "China Northern",
+          "name": "China Northern",
           "texture": [
             "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/Boeing_737-800/CP.png"
           ],
           "credits": "CP8888"
         },
         {
-           "name": "China Northern Cargo",
+          "name": "China Northern Cargo",
           "texture": [
             "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/Boeing_737-800/CPcargo.png"
           ],
           "credits": "CP8888"
         },
         {
-           "name": "China Northern x Travel Airways",
+          "name": "China Northern x Travel Airways",
           "texture": [
             "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/Boeing_737-800/B-6657.png"
           ],
           "credits": "KN5290 & CP8888"
         },
         {
-           "name": "China Northern (Ice City Summer Capital livery)",
+          "name": "China Northern (Ice City Summer Capital livery)",
           "texture": [
             "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/Boeing_737-800/CP_B8887.jpg"
           ],
@@ -793,12 +793,12 @@
       "name": "Boeing b787-10",
       "liveries": [
         {
-           "name": "China Northern",
+          "name": "China Northern",
           "texture": [
             "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/Boeing_787-10/CP.jpg"
           ],
           "credits": "CP8888"
-        }       
+        }
       ],
       "labels": [
         "Texture"
@@ -1100,7 +1100,7 @@
       "name": "Boeing b747-8I",
       "liveries": [
         {
-           "name": "China Northern",
+          "name": "China Northern",
           "texture": [
             "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/Boeing_b747-8/CP.jpg",
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
@@ -1108,7 +1108,7 @@
           "credits": "CP8888"
         },
         {
-           "name": "China Northern (Shenzhen livery)",
+          "name": "China Northern (Shenzhen livery)",
           "texture": [
             "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/Boeing_b747-8/CP_B-2488.jpg",
             "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/Boeing_b747-8/wing/wing.jpg"
@@ -1168,28 +1168,28 @@
       "name": "Comac C919",
       "liveries": [
         {
-           "name": "China Northern",
+          "name": "China Northern",
           "texture": [
             "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/Comac_c919/CP.png"
           ],
           "credits": "CP8888"
         },
         {
-           "name": "China Northern (2026 years Special livery)",
+          "name": "China Northern (2026 years Special livery)",
           "texture": [
             "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/Comac_c919/CP2026.png"
           ],
           "credits": "CP8888"
         },
         {
-           "name": "China Northern (Shenyang livery)",
+          "name": "China Northern (Shenyang livery)",
           "texture": [
             "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/Comac_c919/CP_shenyang.jpg"
           ],
           "credits": "CP8888"
         },
         {
-           "name": "China Northern (Beijing livery)",
+          "name": "China Northern (Beijing livery)",
           "texture": [
             "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/Comac_c919/CP_beijing.jpg"
           ],
@@ -1198,13 +1198,13 @@
       ],
       "labels": [
         "Texture"
-      ]    
+      ]
     },
     "777x_267286_5635": {
       "name": "Boeing b777-9X",
       "liveries": [
         {
-           "name": "China Northern (Planned livery)",
+          "name": "China Northern (Planned livery)",
           "texture": [
             "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/Boeing_b777-9X/CP.png",
             "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/Boeing_b777-9X/CP.png",
@@ -1213,7 +1213,7 @@
           "credits": "KN5290 & CP8888"
         },
         {
-           "name": "China Northern (First 777-9X sticker)",
+          "name": "China Northern (First 777-9X sticker)",
           "texture": [
             "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/Boeing_b777-9X/CP1th.png",
             "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/Boeing_b777-9X/CP1th.png",
@@ -1230,7 +1230,7 @@
       "name": "Boeing b747-400",
       "liveries": [
         {
-           "name": "China Northern",
+          "name": "China Northern",
           "texture": [
             "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/Boeing_b747-400/CP.png",
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
@@ -1238,7 +1238,7 @@
           "credits": "CP8888"
         },
         {
-           "name": "China Northern (white nose)",
+          "name": "China Northern (white nose)",
           "texture": [
             "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/Boeing_b747-400/CPwhitenose.png",
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
@@ -1246,7 +1246,7 @@
           "credits": "CP8888"
         },
         {
-           "name": "China Northern B-2449",
+          "name": "China Northern B-2449",
           "texture": [
             "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/Boeing_b747-400/CP_combi.png",
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
@@ -1254,7 +1254,7 @@
           "credits": "KN5290 & CP8888"
         },
         {
-           "name": "China Northern (Aurora Deep Space livery)",
+          "name": "China Northern (Aurora Deep Space livery)",
           "texture": [
             "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/Boeing_b747-400/B2488.jpg",
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
@@ -1262,7 +1262,7 @@
           "credits": "CP8888"
         },
         {
-           "name": "China Northern (Hangzhou livery)",
+          "name": "China Northern (Hangzhou livery)",
           "texture": [
             "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/Boeing_b747-400/CP_hangzhou.jpg",
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
@@ -1273,41 +1273,41 @@
       "labels": [
         "Fuselage texture",
         "Wing texture"
-      ]    
+      ]
     },
     "Airbus A319neo by Spice9 &_364320_5847": {
       "name": "Airbus A319neo",
       "liveries": [
         {
-           "name": "China Northern",
+          "name": "China Northern",
           "texture": [
             "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/Airbus_A319neo/CP.png"
           ],
           "credits": "CP8888"
         },
         {
-           "name": "China Northern (Stellar Sky Alliance livery)",
+          "name": "China Northern (Stellar Sky Alliance livery)",
           "texture": [
             "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/Airbus_A319neo/CPsky.png"
           ],
           "credits": "CP8888"
         },
         {
-           "name": "China Northern (25th Anniversary livery)",
+          "name": "China Northern (25th Anniversary livery)",
           "texture": [
             "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/Airbus_A319neo/CP25.png"
           ],
           "credits": "CP8888"
         },
         {
-           "name": "China Northern (Chinese New Year livery)",
+          "name": "China Northern (Chinese New Year livery)",
           "texture": [
             "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/Airbus_A319neo/CPspringfestival.png"
           ],
           "credits": "CP8888"
         },
         {
-           "name": "China Northern (Wenzhou livery)",
+          "name": "China Northern (Wenzhou livery)",
           "texture": [
             "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/Airbus_A319neo/CPwenzhou.png"
           ],
@@ -1322,7 +1322,7 @@
       "name": "Airbus A340-600",
       "liveries": [
         {
-           "name": "China Northern (Northern Aurora livery)",
+          "name": "China Northern (Northern Aurora livery)",
           "texture": [
             "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/Airbus_a340-600/B-3406.png"
           ],
@@ -1337,7 +1337,7 @@
       "name": "ATR 72-600",
       "liveries": [
         {
-           "name": "China Northern",
+          "name": "China Northern",
           "texture": [
             "https://i.ibb.co/gb292mvN/CP.jpg",
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/ATR_72-600/shaders/ATR_Normal.webp",
@@ -1346,7 +1346,7 @@
           "credits": "CP8888"
         },
         {
-           "name": "China Northern Cargo",
+          "name": "China Northern Cargo",
           "texture": [
             "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/atr72-600/Cargo.jpg",
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/ATR_72-600/shaders/freighter_Normal.webp",
@@ -1365,7 +1365,7 @@
       "name": "Bombardier CRJ900",
       "liveries": [
         {
-           "name": "China Northern",
+          "name": "China Northern",
           "texture": [
             "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/CRJ900/CP.jpg",
             "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/CRJ900/CP.jpg",
@@ -1380,59 +1380,59 @@
     }
   },
   "Airbus A330-300_781290_6012": {
-      "name": "Airbus a330-300",
-      "liveries": [
-        {
-           "name": "China Northern",
-          "texture": [
-            "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/China_Northern.jpg",
-            "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/China_Northern.jpg"
-          ],
-          "credits": "CP8888"
-        },
-        {
-           "name": "China Northern (white nose)",
-          "texture": [
-            "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/CP_white_nose.jpg",
-            "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/CP_white_nose.jpg"
-          ],
-          "credits": "CP8888"
-        },
-        {
-           "name": "China Northern (white design)",
-          "texture": [
-            "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/CP_white_design.jpg",
-            "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/CP_white_design.jpg"
-          ],
-          "credits": "CP8888"
-        },
-        {
-           "name": "China Northern (No logos)",
-          "texture": [
-            "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/CP_no_logo.jpg",
-            "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/CP_no_logo.jpg"
-          ],
-          "credits": "CP8888"
-        },
-        {
-           "name": "China Northern (Stellar Sky Alliance livery)",
-          "texture": [
-            "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/CP_sky.jpg",
-            "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/CP_sky.jpg"
-          ],
-          "credits": "CP8888"
-        },
-        {
-           "name": "China Northern (Stellar Sky Alliance livery, white engines)",
-          "texture": [
-            "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/CP_sky_white_engines.jpg",
-            "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/CP_sky_white_engines.jpg"
-          ],
-          "credits": "CP8888"
-        }
-      ],
-      "labels": [
-        "Texture"
-      ]
-    }
+    "name": "Airbus a330-300",
+    "liveries": [
+      {
+        "name": "China Northern",
+        "texture": [
+          "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/China_Northern.jpg",
+          "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/China_Northern.jpg"
+        ],
+        "credits": "CP8888"
+      },
+      {
+        "name": "China Northern (white nose)",
+        "texture": [
+          "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/CP_white_nose.jpg",
+          "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/CP_white_nose.jpg"
+        ],
+        "credits": "CP8888"
+      },
+      {
+        "name": "China Northern (white design)",
+        "texture": [
+          "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/CP_white_design.jpg",
+          "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/CP_white_design.jpg"
+        ],
+        "credits": "CP8888"
+      },
+      {
+        "name": "China Northern (No logos)",
+        "texture": [
+          "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/CP_no_logo.jpg",
+          "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/CP_no_logo.jpg"
+        ],
+        "credits": "CP8888"
+      },
+      {
+        "name": "China Northern (Stellar Sky Alliance livery)",
+        "texture": [
+          "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/CP_sky.jpg",
+          "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/CP_sky.jpg"
+        ],
+        "credits": "CP8888"
+      },
+      {
+        "name": "China Northern (Stellar Sky Alliance livery, white engines)",
+        "texture": [
+          "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/CP_sky_white_engines.jpg",
+          "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/CP_sky_white_engines.jpg"
+        ],
+        "credits": "CP8888"
+      }
+    ],
+    "labels": [
+      "Texture"
+    ]
   }
+}
