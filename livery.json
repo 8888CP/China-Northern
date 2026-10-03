@@ -1000,6 +1000,13 @@
             "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/Airbus_a321neo/CPnosunglasses.png"
           ],
           "credits": "CP8888"
+        },
+        {
+          "name": "China Northern (Once you're here, you're a Northeasterner livery)",
+          "texture": [
+            "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/Airbus_a321neo/CP_B587P.jpg"
+          ],
+          "credits": "CP8888"
         }
       ],
       "labels": [
