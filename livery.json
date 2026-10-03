@@ -1392,7 +1392,6 @@
       {
         "name": "China Northern",
         "texture": [
-          "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/China_Northern.jpg",
           "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/China_Northern.jpg"
         ],
         "credits": "CP8888"
@@ -1400,7 +1399,6 @@
       {
         "name": "China Northern (white nose)",
         "texture": [
-          "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/CP_white_nose.jpg",
           "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/CP_white_nose.jpg"
         ],
         "credits": "CP8888"
@@ -1408,7 +1406,6 @@
       {
         "name": "China Northern (white design)",
         "texture": [
-          "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/CP_white_design.jpg",
           "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/CP_white_design.jpg"
         ],
         "credits": "CP8888"
@@ -1416,7 +1413,6 @@
       {
         "name": "China Northern (No logos)",
         "texture": [
-          "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/CP_no_logo.jpg",
           "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/CP_no_logo.jpg"
         ],
         "credits": "CP8888"
@@ -1424,7 +1420,6 @@
       {
         "name": "China Northern (Stellar Sky Alliance livery)",
         "texture": [
-          "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/CP_sky.jpg",
           "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/CP_sky.jpg"
         ],
         "credits": "CP8888"
@@ -1432,7 +1427,6 @@
       {
         "name": "China Northern (Stellar Sky Alliance livery, white engines)",
         "texture": [
-          "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/CP_sky_white_engines.jpg",
           "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a333/CP_sky_white_engines.jpg"
         ],
         "credits": "CP8888"
