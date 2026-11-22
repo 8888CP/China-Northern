@@ -153,6 +153,13 @@
                         "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a32n/CP.jpg"
                     ],
                     "credits": "CP8888"
+                },
+                {
+                    "name": "China Northern (Changchun 2027 Winter Universiade livery)",
+                    "texture": [
+                        "https://raw.githubusercontent.com/8888CP/China-Northern/refs/heads/main/liveries/a32n/B-549K.jpg"
+                    ],
+                    "credits": "CP8888"
                 }
             ],
             "labels": [
